@@ -3,7 +3,7 @@
 ## 📋 descrição
 - feito para aula de programação web I, os três arquivos apresenta uma caixa de pergunta, depois que o usuario diz um numero ele mostra uma informação. <br>
     [A primeira atividade](https://github.com/emillycaaroline/Atividades/blob/main/atv1.php), `ele mostra se o numero escolhido pelo usuario é impar ou par. `<br>
-    [A Segunda atividade](https://github.com/emillycaaroline/Atividades/blob/main/atv2.php), `ele mostra se o numero escolhido pelo usuario é Redondo ou não. `
+    [A Segunda atividade](https://github.com/emillycaaroline/Atividades/blob/main/atv2.php), `ele mostra se o numero escolhido pelo usuario é Redondo ou não. `<br>
     [A Terceira atividade](https://github.com/emillycaaroline/Atividades/blob/main/atv3.php), `ele mostra se o numero escolhido pelo usuario é Positivo, negativo ou neutro `
 
     O código em [CSS](https://github.com/emillycaaroline/Atividades/blob/main/style.css) `Só serve para colocar o texto no centro`
