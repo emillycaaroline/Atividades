@@ -7,7 +7,7 @@
     <title>Atividade 3</title>
 </head>
 <body>
-<h1>Código para verificação - para numeros  </h1>
+<h1>Código para verificação - positivo, negativo e neutro  </h1>
 <form method="post">
     <label for="nmr">Digite um número:</label><br>
     <input type="nmr" id="nmr" name="nmr" required>
@@ -19,7 +19,7 @@
         if ($numb > 0) {
             echo "<p>O número $numb é positivo.</p>";
         } elseif($numb < 0) {
-            echo "<p>O número $numb não é positivo.</p>";
+            echo "<p>O número $numb é negativo.</p>";
         }else{
             echo "<P>O número $numb é neutro<P>";
         }
