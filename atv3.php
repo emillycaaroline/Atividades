@@ -11,7 +11,7 @@
 <form method="post">
     <label for="nmr">Digite um número:</label><br>
     <input type="nmr" id="nmr" name="nmr" required>
-    <button type="submit">Testar</button>
+    <button type="submit">OK</button>
 </form>
     <?php
     if ($_SERVER["REQUEST_METHOD"] == "POST") {
