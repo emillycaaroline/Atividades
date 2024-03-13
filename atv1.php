@@ -13,7 +13,7 @@
     <form method="post">
     <label for="nmr">Digite um número:</label><br>
     <input type="number" id="nmr" name="nmr" required>
-    <button type="submit">Testar</button>
+    <button type="submit">OK</button>
 </form>
 <!-- PHP -->
 <?php
