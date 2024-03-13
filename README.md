@@ -23,7 +23,7 @@
 - Utilizei tambem como fonte de pesuisa outros codigos feitos em sala, onde consegui pega inpiração.
 
 ## Tela
-[img](imgg/img.png)
+![img](imgg/img.png)
 
 ## ✒️ Autor
 
