@@ -15,10 +15,11 @@
    - github  
    - HTML5 
    - PHP  
+   - CSS
 
 
 ## 🖇️ Fontes consultadas
-- (site)[https://www.php.net/manual/pt_BR/tutorial.forms.php] onde descobri o POST.
+- [site](https://www.php.net/manual/pt_BR/tutorial.forms.php) onde descobri o POST.
 - Utilizei tambem como fonte de pesuisa outros codigos feitos em sala, onde consegui pega inpiração.
 
 
