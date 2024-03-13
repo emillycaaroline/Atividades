@@ -28,6 +28,27 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         
     }
 }
+// vai mostra se o numero é redondo ou não
+if ($_SERVER["REQUEST_METHOD"] == "POST") {
+    $numb = $_POST["nmr"];
+    if ($numb % 10 == 0) {
+        echo "<p>O número $numb É REDONDO.</p>";
+    } else {
+        echo "<p>O número $numb NÃO é REDONDO.</p>";
+    
+    }
+}
+// mostra se o numero é positivo, negativo ou neutro.
+if ($_SERVER["REQUEST_METHOD"] == "POST") {
+    $numb = $_POST["nmr"];
+    if ($numb > 0) {
+        echo "<p>O número $numb é positivo.</p>";
+    } elseif($numb < 0) {
+        echo "<p>O número $numb é negativo.</p>";
+    }else{
+        echo "<P>O número $numb é neutro<P>";
+    }
+}
 ?>
    
 </body>
